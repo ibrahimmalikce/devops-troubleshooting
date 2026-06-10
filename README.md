@@ -1,0 +1,12 @@
+# DevOps Troubleshooting Runbooks
+
+Real-world issues encountered and resolved during hands-on sysadmin/DevOps work.
+
+## Runbooks
+| File | Description |
+|------|-------------|
+| [tomcat-almalinux-fix.md](./tomcat-almalinux-fix.md) | Apache Tomcat systemd startup failure on AlmaLinux |
+
+## Environment
+- Beyond Systems IT Internship — Lagos, Nigeria
+- Servers: Dell PowerEdge R420, AlmaLinux
